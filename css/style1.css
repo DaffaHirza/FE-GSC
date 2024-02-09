@@ -26,12 +26,15 @@
     margin: 0 1rem;
     font-size: 0.9rem;
   }
+  .navbar-nav a:hover{
+    color: white;
+  }
   
   .navbar-nav a::after {
     content: "";
     display: block;
     padding-bottom: 0.5rem;
-    border-bottom: 0.1rem solid black;
+    border-bottom: 0.1rem solid white;
     transform: scaleX(0);
     transition: 0.2s linear;
   }
