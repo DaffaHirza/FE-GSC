@@ -81,3 +81,14 @@ body {
 .global{
   min-height: 100vh;
 }
+
+/* comunity */
+.likekom .like{
+  color: black;
+  background-color: #F3F3F3;
+}
+.likekom .komen{
+  color: black;
+  background-color: #F3F3F3;
+}
+
